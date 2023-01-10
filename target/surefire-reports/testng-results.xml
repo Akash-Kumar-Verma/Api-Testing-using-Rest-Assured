@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T16:24:51Z" name="Suite" finished-at="2022-11-22T16:24:56Z" duration-ms="5142">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T16:24:51Z" name="Test" finished-at="2022-11-22T16:24:56Z" duration-ms="5142">
+      <class name="assignment.RestFramework.testcases.Board">
+        <test-method is-config="true" signature="setUpRequest()[pri:0, instance:assignment.RestFramework.testcases.Board@6cdba6dc]" started-at="2022-11-22T16:24:54Z" name="setUpRequest" finished-at="2022-11-22T16:24:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRequest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:assignment.RestFramework.testcases.Board@6cdba6dc]" started-at="2022-11-22T16:24:54Z" name="startTest" finished-at="2022-11-22T16:24:54Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void assignment.RestFramework.testcases.Board.Create_a_board() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="SetupTest()[pri:0, instance:assignment.RestFramework.testcases.Board@6cdba6dc]" started-at="2022-11-22T16:24:54Z" name="SetupTest" finished-at="2022-11-22T16:24:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupTest -->
+        <test-method signature="Create_a_board()[pri:1, instance:assignment.RestFramework.testcases.Board@6cdba6dc]" started-at="2022-11-22T16:24:54Z" name="Create_a_board" finished-at="2022-11-22T16:24:55Z" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_a_board -->
+        <test-method is-config="true" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:assignment.RestFramework.testcases.Board@6cdba6dc]" started-at="2022-11-22T16:24:55Z" name="reportFlush" finished-at="2022-11-22T16:24:55Z" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Create_a_board status=SUCCESS method=Board.Create_a_board()[pri:1, instance:assignment.RestFramework.testcases.Board@6cdba6dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- assignment.RestFramework.testcases.Board -->
+      <class name="assignment.RestFramework.testcases.Lebels">
+        <test-method is-config="true" signature="SetupTest()[pri:0, instance:assignment.RestFramework.testcases.Lebels@7d3d101b]" started-at="2022-11-22T16:24:55Z" name="SetupTest" finished-at="2022-11-22T16:24:55Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:assignment.RestFramework.testcases.Lebels@7d3d101b]" started-at="2022-11-22T16:24:55Z" name="startTest" finished-at="2022-11-22T16:24:55Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void assignment.RestFramework.testcases.Lebels.Create_a_Lebel() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setUpRequest()[pri:0, instance:assignment.RestFramework.testcases.Lebels@7d3d101b]" started-at="2022-11-22T16:24:55Z" name="setUpRequest" finished-at="2022-11-22T16:24:55Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRequest -->
+        <test-method signature="Create_a_Lebel()[pri:1, instance:assignment.RestFramework.testcases.Lebels@7d3d101b]" started-at="2022-11-22T16:24:55Z" name="Create_a_Lebel" finished-at="2022-11-22T16:24:56Z" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_a_Lebel -->
+        <test-method is-config="true" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:assignment.RestFramework.testcases.Lebels@7d3d101b]" started-at="2022-11-22T16:24:56Z" name="reportFlush" finished-at="2022-11-22T16:24:56Z" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Create_a_Lebel status=SUCCESS method=Lebels.Create_a_Lebel()[pri:1, instance:assignment.RestFramework.testcases.Lebels@7d3d101b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- assignment.RestFramework.testcases.Lebels -->
+      <class name="assignment.RestFramework.testcases.Card">
+        <test-method is-config="true" signature="SetupTest()[pri:0, instance:assignment.RestFramework.testcases.Card@30c8681]" started-at="2022-11-22T16:24:56Z" name="SetupTest" finished-at="2022-11-22T16:24:56Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:assignment.RestFramework.testcases.Card@30c8681]" started-at="2022-11-22T16:24:56Z" name="startTest" finished-at="2022-11-22T16:24:56Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void assignment.RestFramework.testcases.Card.Create_a_Card() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setUpRequest()[pri:0, instance:assignment.RestFramework.testcases.Card@30c8681]" started-at="2022-11-22T16:24:56Z" name="setUpRequest" finished-at="2022-11-22T16:24:56Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRequest -->
+        <test-method signature="Create_a_Card()[pri:1, instance:assignment.RestFramework.testcases.Card@30c8681]" started-at="2022-11-22T16:24:56Z" name="Create_a_Card" finished-at="2022-11-22T16:24:56Z" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_a_Card -->
+        <test-method is-config="true" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:assignment.RestFramework.testcases.Card@30c8681]" started-at="2022-11-22T16:24:56Z" name="reportFlush" finished-at="2022-11-22T16:24:56Z" duration-ms="28" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Create_a_Card status=SUCCESS method=Card.Create_a_Card()[pri:1, instance:assignment.RestFramework.testcases.Card@30c8681] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- assignment.RestFramework.testcases.Card -->
+      <class name="assignment.RestFramework.testcases.CheckLists">
+        <test-method is-config="true" signature="init()[pri:0, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc]" started-at="2022-11-22T16:24:51Z" name="init" finished-at="2022-11-22T16:24:51Z" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="loadLog4j()[pri:0, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc]" started-at="2022-11-22T16:24:51Z" name="loadLog4j" finished-at="2022-11-22T16:24:51Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLog4j -->
+        <test-method is-config="true" signature="SetupTest()[pri:0, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc]" started-at="2022-11-22T16:24:51Z" name="SetupTest" finished-at="2022-11-22T16:24:51Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc]" started-at="2022-11-22T16:24:51Z" name="startTest" finished-at="2022-11-22T16:24:52Z" duration-ms="597" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void assignment.RestFramework.testcases.CheckLists.Create_a_CheckList() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="setUpRequest()[pri:0, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc]" started-at="2022-11-22T16:24:52Z" name="setUpRequest" finished-at="2022-11-22T16:24:52Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRequest -->
+        <test-method signature="Create_a_CheckList()[pri:1, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc]" started-at="2022-11-22T16:24:52Z" name="Create_a_CheckList" finished-at="2022-11-22T16:24:54Z" duration-ms="1800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_a_CheckList -->
+        <test-method is-config="true" signature="reportFlush(org.testng.ITestResult)[pri:0, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc]" started-at="2022-11-22T16:24:54Z" name="reportFlush" finished-at="2022-11-22T16:24:54Z" duration-ms="182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Create_a_CheckList status=SUCCESS method=CheckLists.Create_a_CheckList()[pri:1, instance:assignment.RestFramework.testcases.CheckLists@1ae8bcbc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- assignment.RestFramework.testcases.CheckLists -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
